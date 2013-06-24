@@ -1,7 +1,7 @@
-# [API:Configuration](http://api.qunitjs.com/category/config/)
+# [API > Configuration](http://api.qunitjs.com/category/config/)
 
-## [QUnit.config](http://api.qunitjs.com/QUnit.config/)
+## `QUnit.config` [原文](http://api.qunitjs.com/QUnit.config/)
 
-## [QUnit.init()](http://api.qunitjs.com/QUnit.init/)
+## `QUnit.init()` [原文](http://api.qunitjs.com/QUnit.init/)
 
-## [QUnit.reset()](http://api.qunitjs.com/QUnit.reset/)
+## `QUnit.reset()` [原文](http://api.qunitjs.com/QUnit.reset/)

@@ -1,9 +1,9 @@
-# [API:Test](http://api.qunitjs.com/category/test/)
+# [API > Test](http://api.qunitjs.com/category/test/)
 
-## [asyncTest()](http://api.qunitjs.com/asyncTest/)
+## `asyncTest()` [原文](http://api.qunitjs.com/asyncTest/)
 
-## [expect()](http://api.qunitjs.com/expect/)
+## `expect()` [原文](http://api.qunitjs.com/expect/)
 
-## [module()](http://api.qunitjs.com/module/)
+## `module()` [原文](http://api.qunitjs.com/module/)
 
-## [test()](http://api.qunitjs.com/test/)
+## `test()` [原文](http://api.qunitjs.com/test/)

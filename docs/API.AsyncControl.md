@@ -1,7 +1,7 @@
-# [API:Async Control](http://api.qunitjs.com/category/async-control/)
+# [API > Async Control](http://api.qunitjs.com/category/async-control/)
 
-## [asyncTest()](http://api.qunitjs.com/asyncTest/)
+## `asyncTest()` [原文](http://api.qunitjs.com/asyncTest/)
 
-## [start()](http://api.qunitjs.com/start/)
+## `start()` [原文](http://api.qunitjs.com/start/)
 
-## [stop()](http://api.qunitjs.com/stop/)
+## `stop()` [原文](http://api.qunitjs.com/stop/)
