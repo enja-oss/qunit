@@ -1,4 +1,4 @@
-# [API > Test](http://api.qunitjs.com/category/test/)
+# [Test](http://api.qunitjs.com/category/test/)
 
 ## `asyncTest()` [原文](http://api.qunitjs.com/asyncTest/)
 

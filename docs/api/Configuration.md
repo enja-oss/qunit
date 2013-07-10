@@ -1,4 +1,4 @@
-# [API > Configuration](http://api.qunitjs.com/category/config/)
+# [Configuration](http://api.qunitjs.com/category/config/)
 
 ## `QUnit.config` [原文](http://api.qunitjs.com/QUnit.config/)
 

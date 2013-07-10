@@ -1,4 +1,4 @@
-# [API > Callbacks](http://api.qunitjs.com/category/callbacks/)
+# [Callbacks](http://api.qunitjs.com/category/callbacks/)
 
 ## `QUnit.begin()` [原文](http://api.qunitjs.com/QUnit.begin/)
 
