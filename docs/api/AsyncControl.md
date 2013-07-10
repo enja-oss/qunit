@@ -1,4 +1,4 @@
-# [API > Async Control](http://api.qunitjs.com/category/async-control/)
+# [Async Control](http://api.qunitjs.com/category/async-control/)
 
 ## `asyncTest()` [原文](http://api.qunitjs.com/asyncTest/)
 

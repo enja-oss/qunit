@@ -1,4 +1,4 @@
-# [API > Assert](http://api.qunitjs.com/category/assert/)
+# [Assert](http://api.qunitjs.com/category/assert/)
 
 ## `deepEqual()` [原文](http://api.qunitjs.com/deepEqual/)
 
